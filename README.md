@@ -2,7 +2,7 @@
 
 **Predict whether an existing customer will buy a newly offered product — a classic cross-sell / next-best-offer problem — using their demographics, product mix, and spending behavior.**
 
-![Python](https://img.shields.io/badge/Python-3.12-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-classification-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-classification-orange) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
